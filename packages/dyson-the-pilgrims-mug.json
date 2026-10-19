@@ -1,0 +1,94 @@
+{
+ "format": 1,
+ "adventure": {
+  "name": "A Caneca do Peregrino",
+  "description": "Estalagem de beira de estrada em três pisos, lado a lado, com estábulo.",
+  "homebrew": [],
+  "docs": [
+   {
+    "ref": "creditos",
+    "doc": {
+     "kind": "journal",
+     "data": {
+      "title": "A Caneca do Peregrino: créditos",
+      "pages": [
+       {
+        "id": "p1",
+        "title": "Créditos",
+        "kind": "text",
+        "doc": {
+         "type": "doc",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "A Caneca do Peregrino (The Pilgrim's Mug). Estalagem de beira de estrada em três pisos, lado a lado, com estábulo."
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Cartography by Dyson Logos. Mapa original: https://dysonlogos.blog/2026/04/08/the-pilgrims-mug/. Licença comercial gratuita do autor (crédito obrigatório): https://dysonlogos.blog/maps/commercial-maps/"
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Escala sugerida: 1 quadrado = 5 pés (dá para mudar nas opções da cena). O mapa não traz paredes: use a ferramenta de paredes se quiser bloquear passagem e visão."
+            }
+           ]
+          }
+         ]
+        },
+        "imageUrl": null,
+        "caption": ""
+       }
+      ]
+     }
+    }
+   },
+   {
+    "ref": "cena",
+    "doc": {
+     "kind": "scene",
+     "data": {
+      "scene": {
+       "name": "A Caneca do Peregrino",
+       "imageUrl": "asset:the-pilgrims-mug.jpg",
+       "width": 1800,
+       "height": 4200,
+       "grid": {
+        "size": 75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "visible": false,
+        "distance": 5,
+        "units": "ft"
+       },
+       "journalId": "creditos",
+       "globalLight": true,
+       "darkness": 0
+      },
+      "tokens": [],
+      "templates": [],
+      "drawings": [],
+      "notes": [],
+      "walls": [],
+      "lights": []
+     }
+    }
+   }
+  ]
+ },
+ "assets": {
+  "the-pilgrims-mug.jpg": "https://github.com/Thiago-Ginger/taverna-estante/releases/download/dyson-1/the-pilgrims-mug.jpg"
+ }
+}

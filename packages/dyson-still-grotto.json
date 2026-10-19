@@ -1,0 +1,94 @@
+{
+ "format": 1,
+ "adventure": {
+  "name": "As Cavernas da Gruta Parada",
+  "description": "Caverna marinha com um lago interno e passagens estreitas.",
+  "homebrew": [],
+  "docs": [
+   {
+    "ref": "creditos",
+    "doc": {
+     "kind": "journal",
+     "data": {
+      "title": "As Cavernas da Gruta Parada: créditos",
+      "pages": [
+       {
+        "id": "p1",
+        "title": "Créditos",
+        "kind": "text",
+        "doc": {
+         "type": "doc",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "As Cavernas da Gruta Parada (The Caves of Still Grotto). Caverna marinha com um lago interno e passagens estreitas."
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Cartography by Dyson Logos. Mapa original: https://dysonlogos.blog/2026/04/10/the-caves-of-still-grotto/. Licença comercial gratuita do autor (crédito obrigatório): https://dysonlogos.blog/maps/commercial-maps/"
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Escala sugerida: 1 quadrado = 5 pés (dá para mudar nas opções da cena). O mapa não traz paredes: use a ferramenta de paredes se quiser bloquear passagem e visão."
+            }
+           ]
+          }
+         ]
+        },
+        "imageUrl": null,
+        "caption": ""
+       }
+      ]
+     }
+    }
+   },
+   {
+    "ref": "cena",
+    "doc": {
+     "kind": "scene",
+     "data": {
+      "scene": {
+       "name": "As Cavernas da Gruta Parada",
+       "imageUrl": "asset:still-grotto.jpg",
+       "width": 3975,
+       "height": 3000,
+       "grid": {
+        "size": 75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "visible": false,
+        "distance": 5,
+        "units": "ft"
+       },
+       "journalId": "creditos",
+       "globalLight": true,
+       "darkness": 0
+      },
+      "tokens": [],
+      "templates": [],
+      "drawings": [],
+      "notes": [],
+      "walls": [],
+      "lights": []
+     }
+    }
+   }
+  ]
+ },
+ "assets": {
+  "still-grotto.jpg": "https://github.com/Thiago-Ginger/taverna-estante/releases/download/dyson-1/still-grotto.jpg"
+ }
+}

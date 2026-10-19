@@ -1,0 +1,94 @@
+{
+ "format": 1,
+ "adventure": {
+  "name": "A Gruta das Marés",
+  "description": "Grutas na costa gastas pelo mar, em terraços, com um redemoinho.",
+  "homebrew": [],
+  "docs": [
+   {
+    "ref": "creditos",
+    "doc": {
+     "kind": "journal",
+     "data": {
+      "title": "A Gruta das Marés: créditos",
+      "pages": [
+       {
+        "id": "p1",
+        "title": "Créditos",
+        "kind": "text",
+        "doc": {
+         "type": "doc",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "A Gruta das Marés (Tideworn Grotto). Grutas na costa gastas pelo mar, em terraços, com um redemoinho."
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Cartography by Dyson Logos. Mapa original: https://dysonlogos.blog/2025/09/10/tideworn-grotto/. Licença comercial gratuita do autor (crédito obrigatório): https://dysonlogos.blog/maps/commercial-maps/"
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Escala sugerida: 1 quadrado = 5 pés (dá para mudar nas opções da cena). O mapa não traz paredes: use a ferramenta de paredes se quiser bloquear passagem e visão."
+            }
+           ]
+          }
+         ]
+        },
+        "imageUrl": null,
+        "caption": ""
+       }
+      ]
+     }
+    }
+   },
+   {
+    "ref": "cena",
+    "doc": {
+     "kind": "scene",
+     "data": {
+      "scene": {
+       "name": "A Gruta das Marés",
+       "imageUrl": "asset:tideworn-grotto.jpg",
+       "width": 2400,
+       "height": 2400,
+       "grid": {
+        "size": 75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "visible": false,
+        "distance": 5,
+        "units": "ft"
+       },
+       "journalId": "creditos",
+       "globalLight": true,
+       "darkness": 0
+      },
+      "tokens": [],
+      "templates": [],
+      "drawings": [],
+      "notes": [],
+      "walls": [],
+      "lights": []
+     }
+    }
+   }
+  ]
+ },
+ "assets": {
+  "tideworn-grotto.jpg": "https://github.com/Thiago-Ginger/taverna-estante/releases/download/dyson-1/tideworn-grotto.jpg"
+ }
+}

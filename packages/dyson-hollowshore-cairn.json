@@ -1,0 +1,94 @@
+{
+ "format": 1,
+ "adventure": {
+  "name": "O Túmulo da Margem Oca",
+  "description": "Túmulo de pedra numa ilha, com câmaras de pilares e celas, cercado de água.",
+  "homebrew": [],
+  "docs": [
+   {
+    "ref": "creditos",
+    "doc": {
+     "kind": "journal",
+     "data": {
+      "title": "O Túmulo da Margem Oca: créditos",
+      "pages": [
+       {
+        "id": "p1",
+        "title": "Créditos",
+        "kind": "text",
+        "doc": {
+         "type": "doc",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "O Túmulo da Margem Oca (Hollowshore Cairn). Túmulo de pedra numa ilha, com câmaras de pilares e celas, cercado de água."
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Cartography by Dyson Logos. Mapa original: https://dysonlogos.blog/2026/06/17/hollowshore-cairn/. Licença comercial gratuita do autor (crédito obrigatório): https://dysonlogos.blog/maps/commercial-maps/"
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Escala sugerida: 1 quadrado = 5 pés (dá para mudar nas opções da cena). O mapa não traz paredes: use a ferramenta de paredes se quiser bloquear passagem e visão."
+            }
+           ]
+          }
+         ]
+        },
+        "imageUrl": null,
+        "caption": ""
+       }
+      ]
+     }
+    }
+   },
+   {
+    "ref": "cena",
+    "doc": {
+     "kind": "scene",
+     "data": {
+      "scene": {
+       "name": "O Túmulo da Margem Oca",
+       "imageUrl": "asset:hollowshore-cairn.jpg",
+       "width": 2400,
+       "height": 2400,
+       "grid": {
+        "size": 75,
+        "offsetX": 0,
+        "offsetY": 0,
+        "visible": false,
+        "distance": 5,
+        "units": "ft"
+       },
+       "journalId": "creditos",
+       "globalLight": true,
+       "darkness": 0
+      },
+      "tokens": [],
+      "templates": [],
+      "drawings": [],
+      "notes": [],
+      "walls": [],
+      "lights": []
+     }
+    }
+   }
+  ]
+ },
+ "assets": {
+  "hollowshore-cairn.jpg": "https://github.com/Thiago-Ginger/taverna-estante/releases/download/dyson-1/hollowshore-cairn.jpg"
+ }
+}

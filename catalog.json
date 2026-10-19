@@ -1,0 +1,259 @@
+{
+ "format": 1,
+ "items": [
+  {
+   "id": "dyson-the-flying-swine",
+   "kind": "map",
+   "title": "O Porco Voador",
+   "originalTitle": "The Flying Swine",
+   "description": "Taverna com salão de mesas, balcão, cozinha, quartos e varanda.",
+   "tags": [
+    "taverna",
+    "cidade"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2026/02/06/the-flying-swine-a-fine-drinking-establishment/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-the-flying-swine.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-the-flying-swine.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     26,
+     18
+    ]
+   }
+  },
+  {
+   "id": "dyson-the-pilgrims-mug",
+   "kind": "map",
+   "title": "A Caneca do Peregrino",
+   "originalTitle": "The Pilgrim's Mug",
+   "description": "Estalagem de beira de estrada em três pisos, lado a lado, com estábulo.",
+   "tags": [
+    "taverna",
+    "estrada",
+    "vários andares"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2026/04/08/the-pilgrims-mug/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-the-pilgrims-mug.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-the-pilgrims-mug.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     24,
+     56
+    ]
+   }
+  },
+  {
+   "id": "dyson-sparrows-tower",
+   "kind": "map",
+   "title": "A Torre do Pardal",
+   "originalTitle": "Sparrow's Tower",
+   "description": "Ruína de torre com andares e porões ligados por escadas, lado a lado.",
+   "tags": [
+    "ruína",
+    "torre",
+    "vários andares"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2026/02/11/sparrows-tower/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-sparrows-tower.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-sparrows-tower.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     27,
+     36
+    ]
+   }
+  },
+  {
+   "id": "dyson-the-hollow-spire",
+   "kind": "map",
+   "title": "O Pináculo Oco",
+   "originalTitle": "The Hollow Spire",
+   "description": "Torre de quatro andares com duas masmorras abaixo, cada nível no mesmo mapa.",
+   "tags": [
+    "torre",
+    "masmorra",
+    "vários andares"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2025/10/08/the-hollow-spire/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-the-hollow-spire.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-the-hollow-spire.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     36,
+     36
+    ]
+   }
+  },
+  {
+   "id": "dyson-fallen-temple-of-sekhmet",
+   "kind": "map",
+   "title": "O Templo Caído de Sekhmet",
+   "originalTitle": "Fallen Temple of Sekhmet",
+   "description": "Templo em ruínas com colunatas, salões e partes desmoronadas.",
+   "tags": [
+    "ruína",
+    "templo"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2025/12/12/fallen-temple-of-sekhmet/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-fallen-temple-of-sekhmet.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-fallen-temple-of-sekhmet.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     24,
+     36
+    ]
+   }
+  },
+  {
+   "id": "dyson-valgrenas-vault",
+   "kind": "map",
+   "title": "O Cofre de Valgrena",
+   "originalTitle": "Valgrena's Vault",
+   "description": "Cripta simétrica em dois níveis, com salões de pilares e câmaras laterais.",
+   "tags": [
+    "masmorra",
+    "cripta"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2026/01/09/valgrenas-vault/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-valgrenas-vault.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-valgrenas-vault.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     32,
+     32
+    ]
+   }
+  },
+  {
+   "id": "dyson-tomb-beneath-the-mound",
+   "kind": "map",
+   "title": "A Tumba sob o Monte",
+   "originalTitle": "Tomb Beneath the Mound",
+   "description": "Túmulo escavado sob um monte: galerias, câmara funerária e um segundo nível.",
+   "tags": [
+    "masmorra",
+    "tumba"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2026/06/10/tomb-beneath-the-mound/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-tomb-beneath-the-mound.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-tomb-beneath-the-mound.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     36,
+     24
+    ]
+   }
+  },
+  {
+   "id": "dyson-hollowshore-cairn",
+   "kind": "map",
+   "title": "O Túmulo da Margem Oca",
+   "originalTitle": "Hollowshore Cairn",
+   "description": "Túmulo de pedra numa ilha, com câmaras de pilares e celas, cercado de água.",
+   "tags": [
+    "masmorra",
+    "tumba",
+    "ilha"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2026/06/17/hollowshore-cairn/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-hollowshore-cairn.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-hollowshore-cairn.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     32,
+     32
+    ]
+   }
+  },
+  {
+   "id": "dyson-still-grotto",
+   "kind": "map",
+   "title": "As Cavernas da Gruta Parada",
+   "originalTitle": "The Caves of Still Grotto",
+   "description": "Caverna marinha com um lago interno e passagens estreitas.",
+   "tags": [
+    "caverna",
+    "costa"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2026/04/10/the-caves-of-still-grotto/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-still-grotto.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-still-grotto.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     53,
+     40
+    ]
+   }
+  },
+  {
+   "id": "dyson-tideworn-grotto",
+   "kind": "map",
+   "title": "A Gruta das Marés",
+   "originalTitle": "Tideworn Grotto",
+   "description": "Grutas na costa gastas pelo mar, em terraços, com um redemoinho.",
+   "tags": [
+    "caverna",
+    "costa"
+   ],
+   "author": "Dyson Logos",
+   "source": "https://dysonlogos.blog/2025/09/10/tideworn-grotto/",
+   "license": "Licença comercial gratuita do Dyson Logos (crédito obrigatório)",
+   "licenseUrl": "https://dysonlogos.blog/maps/commercial-maps/",
+   "attribution": "Cartography by Dyson Logos",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/dyson-tideworn-grotto.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/dyson-tideworn-grotto.json",
+   "grid": {
+    "size": 75,
+    "squares": [
+     32,
+     32
+    ]
+   }
+  }
+ ]
+}
