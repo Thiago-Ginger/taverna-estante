@@ -296,6 +296,14 @@ def walls_for(d, x0, y0):
     return out, doors
 
 
+def short(text, limit=34):
+    """Rótulo curto do marcador no mapa; o texto inteiro fica na nota e no diário."""
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(" ", 1)[0].rstrip(",.;:")
+    return cut + "…"
+
+
 def para(text):
     return {"type": "paragraph", "content": [{"type": "text", "text": text}]}
 
@@ -360,7 +368,7 @@ def package(m, d, size, x0, y0, walls):
                             {
                                 "x": round((n["pos"]["x"] - x0) * C, 1),
                                 "y": round((n["pos"]["y"] - y0) * C, 1),
-                                "title": f"{n['ref']}. {m['notes'][n['ref']]}"[:80],
+                                "title": short(f"{n['ref']}. {m['notes'][n['ref']]}"),
                                 "text": m["notes"][n["ref"]],
                                 "color": "#8B2E1F",
                                 "gmOnly": True,
