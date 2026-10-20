@@ -254,6 +254,274 @@
      32
     ]
    }
+  },
+  {
+   "id": "watabou-307326832",
+   "kind": "adventure",
+   "title": "O Baluarte Superior do Titã das Sombras",
+   "originalTitle": "Upper Stronghold of the Shadow Titan",
+   "description": "O Titã das Sombras se foi há muito tempo, mas o povo ainda evita chegar perto do baluarte. Hoje ele está infestado de leões, que não ligam para o passado do lugar. Dizem que o baluarte guarda tesouros de artefatos mágicos e livros antigos.",
+   "tags": [
+    "masmorra",
+    "fortaleza",
+    "feras"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=307326832",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-307326832.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-307326832.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     37,
+     32
+    ]
+   }
+  },
+  {
+   "id": "watabou-1001",
+   "kind": "adventure",
+   "title": "O Solar Secreto do Sacerdote Vermelho",
+   "originalTitle": "Secret Manor of the Red Priest",
+   "description": "Por um milênio o solar do Sacerdote Vermelho ficou abandonado. Há pouco tempo um dragão morto-vivo fez dele seu covil. Dizem que o solar é rico em ouro.",
+   "tags": [
+    "masmorra",
+    "solar",
+    "morto-vivo",
+    "dragão"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1001",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1001.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1001.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     38,
+     43
+    ]
+   }
+  },
+  {
+   "id": "watabou-1002",
+   "kind": "adventure",
+   "title": "O Sepulcro do Messias de Gelo",
+   "originalTitle": "Sepulcher of the Ice Messiah",
+   "description": "Desde a morte do Messias de Gelo o sepulcro mudou de mãos muitas vezes. Hoje está tomado por águias, indiferentes ao passado do lugar.",
+   "tags": [
+    "masmorra",
+    "tumba",
+    "feras"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1002",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1002.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1002.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     35,
+     32
+    ]
+   }
+  },
+  {
+   "id": "watabou-1003",
+   "kind": "adventure",
+   "title": "O Salão Submerso do Ceifador Dourado",
+   "originalTitle": "Underwater Hall of the Golden Reaper",
+   "description": "O salão do Ceifador Dourado fica numa ilha solitária e está parcialmente alagado. Hoje está tomado por leões. Dizem que a lendária pedra Karketrondeh está escondida aqui.",
+   "tags": [
+    "masmorra",
+    "ilha",
+    "água",
+    "feras"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1003",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1003.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1003.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     14,
+     28
+    ]
+   }
+  },
+  {
+   "id": "watabou-1004",
+   "kind": "adventure",
+   "title": "Os Salões do Ceifador Sombrio",
+   "originalTitle": "Halls of the Dark Reaper",
+   "description": "Desde a morte do Ceifador Sombrio os salões mudaram de mãos muitas vezes. Hoje estão tomados por serpentes.",
+   "tags": [
+    "masmorra",
+    "salões",
+    "serpentes"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1004",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1004.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1004.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     58,
+     37
+    ]
+   }
+  },
+  {
+   "id": "watabou-1005",
+   "kind": "adventure",
+   "title": "A Fortaleza da Dama Aranha",
+   "originalTitle": "Stronghold of the Spider Lady",
+   "description": "A Dama Aranha se foi há muito tempo, mas o povo ainda evita chegar perto da fortaleza. Hoje ela está infestada de formigas. Na fortaleza cresce uma espécie rara de frutinhas.",
+   "tags": [
+    "masmorra",
+    "fortaleza",
+    "insetos"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1005",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1005.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1005.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     26,
+     26
+    ]
+   }
+  },
+  {
+   "id": "watabou-1006",
+   "kind": "adventure",
+   "title": "O Refúgio do Deserto da Bruxa Demoníaca",
+   "originalTitle": "Desert Hold of the Demon Witch",
+   "description": "O refúgio da Bruxa Demoníaca fica numa ilha remota. Há pouco tempo uma temível fera mutante fez dele sua casa.",
+   "tags": [
+    "masmorra",
+    "ilha",
+    "deserto",
+    "monstro"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1006",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1006.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1006.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     34,
+     41
+    ]
+   }
+  },
+  {
+   "id": "watabou-1007",
+   "kind": "adventure",
+   "title": "O Covil do Cavaleiro Lich",
+   "originalTitle": "Lair of the Lich Knight",
+   "description": "O covil do Cavaleiro Lich fica no fundo da floresta escura, protegido pelos bichos perigosos da região e pelo clima hostil. Hoje é controlado por um bando de cultistas, e parte dele está alagada. Correm boatos de que o covil guarda tesouros de livros antigos.",
+   "tags": [
+    "masmorra",
+    "covil",
+    "morto-vivo",
+    "cultistas",
+    "água",
+    "floresta"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1007",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1007.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1007.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     34,
+     42
+    ]
+   }
+  },
+  {
+   "id": "watabou-1008",
+   "kind": "adventure",
+   "title": "A Cidadela de Riellas-Don",
+   "originalTitle": "Citadel of Riellas-Don",
+   "description": "A cidadela de Riellas-Don fica numa ilha distante. Hoje está tomada por javalis, indiferentes ao passado do lugar.",
+   "tags": [
+    "masmorra",
+    "fortaleza",
+    "ilha",
+    "feras"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1008",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1008.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1008.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     21,
+     16
+    ]
+   }
+  },
+  {
+   "id": "watabou-1009",
+   "kind": "adventure",
+   "title": "A Pirâmide Eterna de Nemeia",
+   "originalTitle": "Eternal Pyramid of Nemeia",
+   "description": "A pirâmide de Nemeia fica numa curva do profundo rio Rhun-Mos. Hoje está tomada por morcegos. Na pirâmide cresce uma espécie muito valiosa de cogumelos.",
+   "tags": [
+    "masmorra",
+    "pirâmide",
+    "templo",
+    "feras"
+   ],
+   "author": "Watabou",
+   "source": "https://watabou.github.io/one-page-dungeon/?seed=1009",
+   "license": "Uso livre, inclusive comercial (nas palavras do autor)",
+   "licenseUrl": "https://watabou.itch.io/one-page-dungeon",
+   "attribution": "Masmorra gerada com o One Page Dungeon, de Watabou",
+   "thumb": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/thumbs/watabou-1009.jpg",
+   "package": "https://raw.githubusercontent.com/Thiago-Ginger/taverna-estante/main/packages/watabou-1009.json",
+   "grid": {
+    "size": 70,
+    "squares": [
+     20,
+     32
+    ]
+   }
   }
  ]
 }

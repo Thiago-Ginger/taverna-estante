@@ -1,0 +1,1048 @@
+{
+ "format": 1,
+ "adventure": {
+  "name": "O Salão Submerso do Ceifador Dourado",
+  "description": "O salão do Ceifador Dourado fica numa ilha solitária e está parcialmente alagado. Hoje está tomado por leões. Dizem que a lendária pedra Karketrondeh está escondida aqui.",
+  "homebrew": [],
+  "docs": [
+   {
+    "ref": "masmorra",
+    "doc": {
+     "kind": "journal",
+     "data": {
+      "title": "O Salão Submerso do Ceifador Dourado",
+      "pages": [
+       {
+        "id": "p1",
+        "title": "A masmorra",
+        "kind": "text",
+        "doc": {
+         "type": "doc",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "O salão do Ceifador Dourado fica numa ilha solitária e está parcialmente alagado. Hoje está tomado por leões. Dizem que a lendária pedra Karketrondeh está escondida aqui."
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "1. Algum ouro num armário médio."
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "2. Uma porta em forma de boca, a leste."
+            }
+           ]
+          }
+         ]
+        },
+        "imageUrl": null,
+        "caption": ""
+       },
+       {
+        "id": "p2",
+        "title": "Créditos",
+        "kind": "text",
+        "doc": {
+         "type": "doc",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Masmorra gerada com o One Page Dungeon, de Watabou (semente 1003, título original: Underwater Hall of the Golden Reaper). Mapa: https://watabou.github.io/one-page-dungeon/?seed=1003"
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Nas palavras do autor, as imagens do gerador podem ser usadas como quiser, inclusive em aventuras comerciais: https://watabou.itch.io/one-page-dungeon. Textos traduzidos para o português."
+            }
+           ]
+          },
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "type": "text",
+             "text": "Escala sugerida: 1 quadrado = 5 pés. Paredes e portas já vêm no mapa; as notas das salas aparecem como marcadores só para o mestre."
+            }
+           ]
+          }
+         ]
+        },
+        "imageUrl": null,
+        "caption": ""
+       }
+      ]
+     }
+    }
+   },
+   {
+    "ref": "cena",
+    "doc": {
+     "kind": "scene",
+     "data": {
+      "scene": {
+       "name": "O Salão Submerso do Ceifador Dourado",
+       "imageUrl": "asset:watabou-1003.jpg",
+       "width": 980,
+       "height": 1960,
+       "grid": {
+        "size": 70,
+        "offsetX": 0,
+        "offsetY": 0,
+        "visible": false,
+        "distance": 5,
+        "units": "ft"
+       },
+       "journalId": "masmorra",
+       "backgroundColor": "#EDE0CE",
+       "globalLight": true,
+       "darkness": 0
+      },
+      "tokens": [],
+      "templates": [],
+      "drawings": [],
+      "notes": [
+       {
+        "x": 280,
+        "y": 1435.0,
+        "title": "1. Algum ouro num armário médio.",
+        "text": "Algum ouro num armário médio.",
+        "color": "#8B2E1F",
+        "gmOnly": true,
+        "journalId": "masmorra"
+       },
+       {
+        "x": 315.0,
+        "y": 665.0,
+        "title": "2. Uma porta em forma de boca, a leste.",
+        "text": "Uma porta em forma de boca, a leste.",
+        "color": "#8B2E1F",
+        "gmOnly": true,
+        "journalId": "masmorra"
+       }
+      ],
+      "walls": [
+       {
+        "c": [
+         280,
+         1610,
+         560,
+         1610
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         560,
+         280,
+         700,
+         280
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         770,
+         280,
+         910,
+         280
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         70,
+         1330,
+         490,
+         1330
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         280,
+         1890,
+         420,
+         1890
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         1890,
+         630,
+         1890
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         140,
+         490,
+         490,
+         490
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         700,
+         980,
+         910,
+         980
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         70,
+         1540,
+         490,
+         1540
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         420,
+         1960,
+         490,
+         1960
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         140,
+         840,
+         280,
+         840
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         350,
+         840,
+         490,
+         840
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         630,
+         840,
+         700,
+         840
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         630,
+         630,
+         630
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         770,
+         630,
+         910,
+         630
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         560,
+         70,
+         910,
+         70
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         1120,
+         560,
+         1120
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         630,
+         1120,
+         700,
+         1120
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         280,
+         1260,
+         560,
+         1260
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         630,
+         1260,
+         700,
+         1260
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         350,
+         1190,
+         490,
+         1190
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         700,
+         560,
+         700
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         1400,
+         560,
+         1400
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         1470,
+         560,
+         1470
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         630,
+         770,
+         700,
+         770
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         560,
+         70,
+         560,
+         280
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         560,
+         700,
+         560,
+         1120
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         560,
+         1260,
+         560,
+         1400
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         560,
+         1470,
+         560,
+         1610
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         630,
+         630,
+         630,
+         770
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         630,
+         840,
+         630,
+         1120
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         630,
+         1260,
+         630,
+         1890
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         910,
+         70,
+         910,
+         280
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         910,
+         630,
+         910,
+         980
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         280,
+         840,
+         280,
+         1260
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         280,
+         1610,
+         280,
+         1890
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         350,
+         840,
+         350,
+         1190
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         490,
+         490,
+         630
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         700,
+         490,
+         840
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         1120,
+         490,
+         1190
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         1330,
+         490,
+         1400
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         1470,
+         490,
+         1540
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         490,
+         1890,
+         490,
+         1960
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         700,
+         280,
+         700,
+         770
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         700,
+         840,
+         700,
+         980
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         700,
+         1120,
+         700,
+         1260
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         770,
+         280,
+         770,
+         630
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         420,
+         1890,
+         420,
+         1960
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         140,
+         490,
+         140,
+         840
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         70,
+         1330,
+         70,
+         1540
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "none",
+        "ds": "closed"
+       },
+       {
+        "c": [
+         560,
+         1575.0,
+         630,
+         1575.0
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "door",
+        "ds": "closed",
+        "doorSound": "wood"
+       },
+       {
+        "c": [
+         525.0,
+         1400,
+         525.0,
+         1470
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "secret",
+        "ds": "closed",
+        "doorSound": "stone"
+       },
+       {
+        "c": [
+         560,
+         1295.0,
+         630,
+         1295.0
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "door",
+        "ds": "closed",
+        "doorSound": "wood"
+       },
+       {
+        "c": [
+         455.0,
+         1190,
+         455.0,
+         1260
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "door",
+        "ds": "closed",
+        "doorSound": "wood"
+       },
+       {
+        "c": [
+         280,
+         875.0,
+         350,
+         875.0
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "door",
+        "ds": "closed",
+        "doorSound": "wood"
+       },
+       {
+        "c": [
+         525.0,
+         630,
+         525.0,
+         700
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "door",
+        "ds": "locked",
+        "doorSound": "metal"
+       },
+       {
+        "c": [
+         700,
+         595.0,
+         770,
+         595.0
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "door",
+        "ds": "closed",
+        "doorSound": "wood"
+       },
+       {
+        "c": [
+         700,
+         315.0,
+         770,
+         315.0
+        ],
+        "move": "normal",
+        "sight": "normal",
+        "light": "normal",
+        "sound": "normal",
+        "dir": "both",
+        "door": "door",
+        "ds": "closed",
+        "doorSound": "wood"
+       },
+       {
+        "c": [
+         560,
+         1085.0,
+         630,
+         1085.0
+        ],
+        "move": "normal",
+        "sight": "none",
+        "light": "none",
+        "sound": "none",
+        "dir": "both",
+        "door": "door",
+        "ds": "locked",
+        "doorSound": "metal"
+       }
+      ],
+      "lights": []
+     }
+    }
+   }
+  ]
+ },
+ "assets": {
+  "watabou-1003.jpg": "https://github.com/Thiago-Ginger/taverna-estante/releases/download/watabou-1/watabou-1003.jpg"
+ }
+}
